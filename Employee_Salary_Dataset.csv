@@ -1,0 +1,501 @@
+Age,Gender,Education,EducationNum,Workclass,Occupation,Industry,Location,YearsExperience,HoursPerWeek,MaritalStatus,Race,CapitalGain,CapitalLoss,NativeCountry,FinalWeight,Salary,SalaryCategory
+46,Female,Bachelors,4,Private,Tech-support,Healthcare,Bangalore,13,57,Divorced,Amer-Indian-Eskimo,5390,956,United States,125553,53400,>50K
+38,Female,PhD,11,Government,Clerical,IT,Hyderabad,1,59,Single,Other,3709,2688,Canada,97768,50100,>50K
+39,Female,PhD,10,Government,Managerial,IT,Mumbai,8,54,Married,Amer-Indian-Eskimo,156,2515,Canada,67540,52200,>50K
+53,Female,Some-college,8,Government,Sales,Education,Delhi,8,22,Single,Other,2872,1060,India,101015,54700,>50K
+35,Female,Some-college,3,Self-employed,Tech-support,Finance,Chennai,7,28,Single,Black,913,889,Canada,76680,34300,<=50K
+31,Female,HS-grad,5,Private,Sales,IT,Chennai,17,26,Married,Amer-Indian-Eskimo,3723,1058,India,131919,60000,>50K
+27,Male,Some-college,1,Private,Engineer,Healthcare,Bangalore,4,21,Married,White,5362,4829,United States,97252,24500,<=50K
+56,Female,HS-grad,3,Government,Sales,IT,Mumbai,18,25,Single,Other,6003,4817,Canada,149408,50700,>50K
+20,Male,Some-college,14,Private,Sales,Finance,Delhi,16,36,Married,White,8031,4028,Canada,80871,71300,>50K
+37,Female,HS-grad,10,Private,Clerical,Education,Delhi,3,51,Single,Amer-Indian-Eskimo,753,955,Germany,123251,54100,>50K
+44,Male,HS-grad,3,Unemployed,Sales,Healthcare,Mumbai,12,26,Married,Asian-Pac-Islander,9386,4424,Canada,61497,53500,>50K
+24,Male,Bachelors,1,Self-employed,Sales,Manufacturing,Chennai,22,21,Married,Black,2812,396,United States,82667,54000,>50K
+57,Male,Masters,3,Unemployed,Sales,Healthcare,Chennai,9,48,Divorced,White,1169,891,Canada,115855,45300,<=50K
+37,Female,Masters,11,Private,Clerical,Manufacturing,Chennai,32,28,Married,Asian-Pac-Islander,4311,2916,India,134421,95400,>50K
+25,Male,Masters,15,Government,Managerial,Healthcare,Bangalore,31,45,Married,Amer-Indian-Eskimo,8092,4144,United States,61672,103100,>50K
+36,Female,HS-grad,10,Private,Clerical,Manufacturing,Hyderabad,10,48,Married,Other,1901,4506,United States,139078,59200,>50K
+37,Male,Bachelors,11,Private,Sales,Education,Chennai,30,56,Married,Black,769,1586,India,103806,94700,>50K
+38,Male,Bachelors,1,Government,Managerial,IT,Bangalore,21,55,Divorced,Black,7750,1071,United States,74968,55100,>50K
+51,Female,HS-grad,2,Unemployed,Engineer,Education,Mumbai,7,23,Divorced,Black,1862,834,Australia,149156,42300,<=50K
+35,Male,HS-grad,8,Private,Clerical,Healthcare,Hyderabad,26,53,Divorced,Amer-Indian-Eskimo,7604,1617,Canada,114735,76300,>50K
+58,Male,Masters,12,Self-employed,Engineer,Education,Mumbai,6,21,Married,White,7986,3523,India,114624,58200,>50K
+53,Male,Some-college,13,Government,Engineer,IT,Hyderabad,13,37,Divorced,Other,5948,2901,United States,80295,61500,>50K
+43,Female,HS-grad,13,Private,Sales,Healthcare,Chennai,8,39,Married,Amer-Indian-Eskimo,2093,4702,United States,71964,64500,>50K
+40,Male,HS-grad,6,Government,Tech-support,Healthcare,Delhi,6,48,Married,Asian-Pac-Islander,3236,2566,Germany,127095,37400,<=50K
+48,Male,Bachelors,8,Self-employed,Craft-repair,Healthcare,Mumbai,6,50,Single,White,785,2024,Germany,143628,45400,<=50K
+59,Female,HS-grad,14,Private,Tech-support,Education,Delhi,39,27,Married,Amer-Indian-Eskimo,9525,144,Canada,110827,112700,>50K
+32,Male,PhD,3,Unemployed,Managerial,Education,Mumbai,29,24,Married,Amer-Indian-Eskimo,5508,4039,India,72196,76500,>50K
+20,Female,Some-college,15,Self-employed,Craft-repair,Healthcare,Chennai,12,30,Single,Black,2139,82,United States,148723,72400,>50K
+41,Female,Bachelors,7,Government,Managerial,Manufacturing,Chennai,10,37,Married,Amer-Indian-Eskimo,2985,2806,Canada,120296,48500,<=50K
+21,Female,Some-college,15,Government,Tech-support,Healthcare,Bangalore,14,37,Divorced,Other,7654,3706,Germany,129086,75900,>50K
+21,Male,Bachelors,6,Government,Clerical,Finance,Delhi,1,33,Single,Asian-Pac-Islander,606,4216,Australia,69762,42600,<=50K
+28,Male,Bachelors,14,Private,Craft-repair,Finance,Mumbai,13,22,Divorced,White,6112,4809,Germany,119083,70100,>50K
+20,Male,Masters,2,Government,Craft-repair,IT,Delhi,30,21,Married,Black,2837,916,United States,141267,73000,>50K
+20,Male,Some-college,12,Unemployed,Engineer,Finance,Chennai,13,30,Married,Other,569,784,United States,95300,70800,>50K
+26,Male,HS-grad,13,Private,Sales,Education,Mumbai,17,41,Married,White,3130,4536,Germany,98542,68900,>50K
+30,Female,Masters,9,Self-employed,Craft-repair,Manufacturing,Delhi,3,33,Single,Other,5341,4472,India,69947,39100,<=50K
+54,Male,Masters,3,Unemployed,Engineer,Healthcare,Delhi,2,29,Single,Black,6251,3772,Australia,76822,26800,<=50K
+39,Male,Masters,1,Private,Sales,IT,Hyderabad,19,49,Married,Asian-Pac-Islander,4177,3336,Germany,53099,51200,>50K
+52,Male,Some-college,13,Private,Clerical,IT,Bangalore,2,44,Single,Amer-Indian-Eskimo,5292,2048,Australia,54519,48300,<=50K
+36,Male,Masters,14,Private,Sales,Education,Mumbai,26,42,Married,Black,4246,621,Germany,60429,96700,>50K
+50,Female,Bachelors,15,Private,Clerical,Finance,Bangalore,28,40,Married,Asian-Pac-Islander,6086,1620,United States,146748,96900,>50K
+25,Female,Bachelors,14,Government,Managerial,Education,Mumbai,28,56,Single,White,6700,287,Australia,63191,85600,>50K
+28,Male,Masters,15,Government,Craft-repair,IT,Bangalore,6,45,Single,Other,6917,209,Germany,111244,59300,>50K
+26,Female,HS-grad,13,Private,Managerial,Healthcare,Delhi,24,41,Divorced,White,8658,4381,Canada,87288,83100,>50K
+27,Female,Some-college,15,Private,Sales,Healthcare,Hyderabad,22,45,Single,Asian-Pac-Islander,2443,4139,Germany,65470,83100,>50K
+35,Male,Masters,11,Self-employed,Sales,IT,Chennai,22,37,Single,Amer-Indian-Eskimo,9057,160,India,129087,78600,>50K
+29,Female,HS-grad,2,Government,Managerial,Healthcare,Delhi,30,50,Married,Amer-Indian-Eskimo,821,4337,United States,76437,76200,>50K
+30,Female,Bachelors,3,Private,Craft-repair,Finance,Hyderabad,35,59,Married,Amer-Indian-Eskimo,4175,783,Australia,109256,82700,>50K
+21,Female,Bachelors,15,Unemployed,Engineer,Healthcare,Hyderabad,1,47,Single,Asian-Pac-Islander,7709,2257,India,134049,50600,>50K
+47,Female,Masters,11,Self-employed,Craft-repair,Manufacturing,Delhi,3,36,Single,Black,4395,3537,United States,97341,47100,<=50K
+38,Male,Some-college,5,Self-employed,Sales,Healthcare,Bangalore,13,39,Single,White,7096,1373,United States,116505,54400,>50K
+58,Female,HS-grad,6,Unemployed,Sales,IT,Chennai,33,48,Single,Amer-Indian-Eskimo,6719,1469,Australia,81898,81000,>50K
+38,Male,Some-college,5,Self-employed,Clerical,Education,Hyderabad,27,43,Single,Asian-Pac-Islander,5184,905,Australia,65064,66400,>50K
+24,Male,Masters,3,Government,Managerial,Finance,Mumbai,12,23,Divorced,White,9805,796,United States,146846,53000,>50K
+39,Female,Some-college,6,Self-employed,Managerial,Finance,Bangalore,8,32,Divorced,Amer-Indian-Eskimo,8101,2505,India,106568,41600,<=50K
+28,Female,PhD,3,Government,Managerial,Healthcare,Hyderabad,2,27,Married,Other,8558,315,India,78690,33700,<=50K
+48,Male,Some-college,8,Self-employed,Engineer,Manufacturing,Chennai,22,45,Single,Asian-Pac-Islander,3033,1290,India,111651,78600,>50K
+28,Male,Some-college,14,Private,Tech-support,Finance,Mumbai,15,51,Married,Other,2912,4510,Australia,64251,75800,>50K
+27,Male,HS-grad,10,Private,Tech-support,Education,Delhi,26,39,Divorced,Black,9258,2356,United States,138876,80400,>50K
+34,Male,HS-grad,5,Unemployed,Tech-support,IT,Delhi,38,22,Married,Amer-Indian-Eskimo,370,4235,United States,114399,88700,>50K
+41,Female,HS-grad,9,Unemployed,Engineer,Education,Mumbai,37,27,Single,White,369,569,United States,122200,98600,>50K
+22,Male,HS-grad,13,Private,Clerical,Manufacturing,Bangalore,18,33,Married,Black,6500,671,India,84781,70200,>50K
+27,Female,Some-college,3,Self-employed,Managerial,Education,Delhi,31,45,Divorced,Black,1896,1688,Canada,92426,68800,>50K
+50,Female,Masters,5,Unemployed,Craft-repair,Healthcare,Mumbai,26,39,Divorced,Asian-Pac-Islander,5158,2073,United States,95500,76900,>50K
+26,Male,Bachelors,4,Self-employed,Clerical,Education,Bangalore,28,34,Single,Black,2920,1284,Australia,50585,73400,>50K
+50,Female,Some-college,6,Unemployed,Tech-support,IT,Bangalore,31,43,Single,Amer-Indian-Eskimo,868,201,United States,69427,83900,>50K
+26,Female,HS-grad,9,Government,Clerical,Education,Mumbai,34,48,Divorced,Asian-Pac-Islander,772,2098,United States,67155,87600,>50K
+34,Male,Some-college,10,Private,Engineer,IT,Chennai,9,25,Single,Black,4831,2600,United States,50073,62400,>50K
+26,Female,PhD,4,Self-employed,Clerical,Education,Mumbai,14,33,Divorced,Other,7102,191,Germany,64151,57200,>50K
+54,Male,PhD,3,Government,Managerial,Manufacturing,Delhi,34,31,Single,White,8026,2317,United States,117370,77900,>50K
+28,Male,HS-grad,7,Unemployed,Craft-repair,Healthcare,Delhi,24,36,Single,White,1215,882,India,144648,79600,>50K
+23,Male,Masters,11,Unemployed,Engineer,Education,Hyderabad,7,47,Single,White,2817,2549,Canada,96254,50700,>50K
+21,Male,PhD,4,Private,Managerial,IT,Delhi,9,33,Divorced,Asian-Pac-Islander,523,2134,India,76775,44200,<=50K
+51,Female,Some-college,9,Private,Clerical,Education,Delhi,31,50,Married,Black,884,1633,United States,82552,82600,>50K
+27,Female,HS-grad,5,Self-employed,Managerial,Healthcare,Mumbai,4,29,Married,Black,4412,1664,Germany,123284,36600,<=50K
+53,Male,Bachelors,1,Self-employed,Engineer,Manufacturing,Delhi,26,53,Married,Amer-Indian-Eskimo,388,2617,Canada,124219,60300,>50K
+37,Female,Bachelors,3,Self-employed,Clerical,IT,Mumbai,19,34,Divorced,Other,1925,1191,Canada,50775,61700,>50K
+31,Female,HS-grad,8,Self-employed,Craft-repair,Finance,Mumbai,11,54,Married,White,7703,1952,Germany,90034,50600,>50K
+26,Male,PhD,11,Private,Managerial,IT,Hyderabad,0,21,Single,White,9770,3884,Germany,102118,38400,<=50K
+21,Female,HS-grad,9,Unemployed,Tech-support,Education,Hyderabad,24,56,Single,White,3661,1302,Australia,51236,80500,>50K
+32,Male,Bachelors,4,Government,Tech-support,Finance,Delhi,33,44,Married,White,3195,1103,Australia,113303,83100,>50K
+38,Male,Bachelors,5,Government,Managerial,Finance,Chennai,7,43,Divorced,Amer-Indian-Eskimo,6880,3980,Germany,138985,50100,>50K
+43,Female,HS-grad,10,Private,Clerical,Healthcare,Delhi,32,30,Married,White,9476,4822,Australia,108240,95200,>50K
+35,Male,HS-grad,7,Self-employed,Managerial,IT,Mumbai,29,55,Married,Black,8938,3030,India,139754,78400,>50K
+40,Female,HS-grad,3,Government,Managerial,IT,Bangalore,20,20,Divorced,Black,75,845,Germany,80174,52300,>50K
+34,Female,HS-grad,8,Unemployed,Managerial,Healthcare,Hyderabad,18,21,Single,Black,2341,2824,Australia,89408,72000,>50K
+50,Male,Some-college,1,Self-employed,Engineer,Healthcare,Hyderabad,20,50,Divorced,Black,4710,3183,Germany,112580,50400,>50K
+58,Male,Bachelors,8,Government,Sales,Healthcare,Mumbai,26,44,Married,Black,2033,2882,Canada,70222,71800,>50K
+47,Female,Some-college,15,Private,Sales,Education,Chennai,28,26,Single,Asian-Pac-Islander,5650,2797,India,140256,93900,>50K
+21,Female,PhD,9,Self-employed,Tech-support,Education,Delhi,25,32,Divorced,Asian-Pac-Islander,3567,604,Germany,66889,83000,>50K
+46,Female,PhD,7,Self-employed,Engineer,Education,Mumbai,16,57,Married,Other,4710,1261,India,89969,63200,>50K
+58,Female,Masters,15,Self-employed,Sales,Healthcare,Mumbai,3,33,Married,Black,7587,1315,United States,101751,58400,>50K
+37,Female,Some-college,13,Government,Clerical,Manufacturing,Bangalore,24,20,Married,White,144,1546,India,147126,83200,>50K
+37,Female,Some-college,2,Private,Sales,Healthcare,Mumbai,11,58,Divorced,Asian-Pac-Islander,1580,4204,United States,68997,49700,<=50K
+43,Male,PhD,8,Self-employed,Sales,Healthcare,Delhi,5,54,Divorced,Other,5755,4186,Australia,71947,40300,<=50K
+42,Female,Some-college,14,Private,Tech-support,Education,Hyderabad,25,22,Married,Amer-Indian-Eskimo,3641,2318,United States,82128,80600,>50K
+36,Female,HS-grad,14,Self-employed,Sales,Healthcare,Mumbai,16,29,Divorced,Amer-Indian-Eskimo,2943,3273,Canada,136869,80400,>50K
+49,Male,Some-college,6,Self-employed,Tech-support,Manufacturing,Mumbai,2,26,Divorced,Black,7104,1791,United States,58181,36000,<=50K
+58,Male,Some-college,2,Unemployed,Craft-repair,Education,Delhi,34,59,Single,Black,602,870,United States,93806,74900,>50K
+33,Male,HS-grad,9,Unemployed,Managerial,Healthcare,Bangalore,28,45,Single,Amer-Indian-Eskimo,5277,3554,India,89102,81100,>50K
+38,Male,PhD,5,Self-employed,Craft-repair,Manufacturing,Hyderabad,1,56,Single,Amer-Indian-Eskimo,2707,4794,Australia,146396,30600,<=50K
+52,Male,HS-grad,11,Government,Engineer,Finance,Mumbai,27,50,Married,Amer-Indian-Eskimo,9926,155,Canada,97195,82000,>50K
+33,Male,Bachelors,4,Unemployed,Craft-repair,Finance,Hyderabad,4,34,Married,Black,3585,4405,United States,71839,43400,<=50K
+36,Female,Bachelors,3,Private,Engineer,Healthcare,Bangalore,17,58,Single,White,2888,2192,Australia,88437,53700,>50K
+40,Female,HS-grad,13,Private,Engineer,Education,Delhi,27,30,Married,Asian-Pac-Islander,9271,2212,Australia,82770,82900,>50K
+47,Male,HS-grad,11,Government,Clerical,IT,Chennai,23,24,Single,Asian-Pac-Islander,6902,876,Australia,77995,78600,>50K
+40,Female,Masters,9,Unemployed,Clerical,Education,Chennai,37,41,Married,Other,9009,3656,United States,115592,102200,>50K
+43,Female,PhD,12,Government,Tech-support,Healthcare,Bangalore,1,33,Married,Amer-Indian-Eskimo,2898,3609,Canada,84753,48600,<=50K
+54,Male,Bachelors,5,Private,Clerical,Manufacturing,Delhi,30,26,Married,Asian-Pac-Islander,3429,170,Canada,58854,76700,>50K
+31,Female,Masters,13,Self-employed,Tech-support,Education,Hyderabad,9,33,Single,Amer-Indian-Eskimo,2584,2087,India,126551,57900,>50K
+54,Male,Some-college,2,Self-employed,Managerial,IT,Chennai,11,50,Divorced,Black,400,2628,Germany,112048,36800,<=50K
+32,Female,Some-college,12,Government,Engineer,Manufacturing,Bangalore,34,59,Divorced,White,7353,2522,United States,121484,99900,>50K
+20,Male,PhD,10,Self-employed,Engineer,Education,Bangalore,17,56,Divorced,Other,2096,3644,India,109935,65400,>50K
+29,Male,PhD,9,Self-employed,Sales,Education,Mumbai,18,59,Married,Black,3904,4915,Canada,97059,72700,>50K
+29,Male,Some-college,10,Government,Tech-support,Healthcare,Delhi,4,51,Married,Amer-Indian-Eskimo,5340,1149,United States,79436,54200,>50K
+29,Female,PhD,3,Private,Craft-repair,Manufacturing,Mumbai,0,59,Single,Black,8743,3604,Canada,128341,32500,<=50K
+57,Female,HS-grad,10,Private,Tech-support,Finance,Hyderabad,19,32,Married,Black,4815,4870,United States,99537,64400,>50K
+57,Female,Some-college,6,Private,Engineer,IT,Chennai,13,28,Married,Amer-Indian-Eskimo,8691,2286,India,60555,53400,>50K
+27,Female,Some-college,10,Government,Engineer,Finance,Delhi,8,21,Married,Other,6236,162,Australia,88114,61600,>50K
+46,Female,Some-college,2,Private,Managerial,Finance,Chennai,6,21,Single,Other,4969,3433,Germany,134396,40900,<=50K
+51,Female,Bachelors,11,Unemployed,Clerical,Education,Mumbai,9,31,Single,Asian-Pac-Islander,4333,2385,Australia,93607,61000,>50K
+36,Female,PhD,8,Government,Craft-repair,Education,Mumbai,21,49,Married,Other,5182,485,India,141206,64500,>50K
+56,Male,PhD,10,Private,Sales,Manufacturing,Hyderabad,7,45,Married,White,1542,1043,Australia,108012,56800,>50K
+42,Female,Some-college,3,Private,Managerial,Finance,Chennai,10,56,Divorced,Amer-Indian-Eskimo,89,3171,India,114030,46300,<=50K
+33,Male,Bachelors,13,Unemployed,Clerical,Finance,Mumbai,7,48,Single,Asian-Pac-Islander,4444,992,India,114863,60300,>50K
+55,Male,Some-college,14,Unemployed,Engineer,Education,Chennai,12,46,Married,Asian-Pac-Islander,6556,3816,India,83262,72900,>50K
+27,Male,Masters,10,Government,Craft-repair,IT,Bangalore,16,49,Divorced,Amer-Indian-Eskimo,6382,1048,United States,101514,69200,>50K
+27,Female,Masters,3,Private,Tech-support,Healthcare,Bangalore,14,44,Single,Asian-Pac-Islander,1548,2734,Germany,145569,49900,<=50K
+41,Female,Some-college,15,Government,Craft-repair,Education,Bangalore,11,23,Single,Amer-Indian-Eskimo,301,2745,Australia,95517,71200,>50K
+40,Male,Some-college,3,Private,Sales,Manufacturing,Hyderabad,14,54,Single,White,3542,936,Germany,145556,43800,<=50K
+50,Female,Some-college,10,Unemployed,Managerial,Finance,Bangalore,5,51,Single,Asian-Pac-Islander,5462,2472,India,65842,56300,>50K
+39,Female,HS-grad,1,Unemployed,Engineer,Manufacturing,Chennai,2,51,Married,White,7038,4089,United States,99937,26200,<=50K
+29,Female,Bachelors,11,Government,Tech-support,Education,Bangalore,23,27,Married,Black,48,3240,Germany,92458,81900,>50K
+40,Female,PhD,5,Self-employed,Clerical,Education,Delhi,9,51,Single,Black,8852,807,United States,147657,42700,<=50K
+21,Male,Bachelors,4,Private,Sales,Manufacturing,Chennai,12,39,Married,Amer-Indian-Eskimo,6879,386,Canada,81206,45600,<=50K
+45,Male,HS-grad,13,Unemployed,Sales,Manufacturing,Delhi,37,32,Divorced,Asian-Pac-Islander,8308,3447,Canada,149022,105500,>50K
+58,Female,Masters,8,Self-employed,Clerical,IT,Hyderabad,11,50,Married,Black,4060,3419,United States,72253,60600,>50K
+43,Female,Some-college,10,Self-employed,Engineer,Healthcare,Hyderabad,31,47,Married,Other,5512,2217,Australia,81622,95300,>50K
+49,Female,HS-grad,9,Self-employed,Engineer,Education,Hyderabad,19,24,Married,Other,9047,2974,Australia,103279,69700,>50K
+26,Female,Masters,3,Private,Clerical,Finance,Mumbai,28,27,Married,White,9831,3490,Canada,123829,68700,>50K
+51,Female,PhD,4,Self-employed,Craft-repair,Finance,Mumbai,34,49,Single,Other,7479,3168,Australia,117135,79500,>50K
+30,Male,Masters,13,Unemployed,Tech-support,Manufacturing,Chennai,16,46,Married,Black,1754,3013,Canada,141914,74700,>50K
+20,Female,HS-grad,8,Self-employed,Clerical,Education,Delhi,30,53,Single,Amer-Indian-Eskimo,6934,1709,Canada,68328,85000,>50K
+54,Female,PhD,8,Unemployed,Craft-repair,IT,Mumbai,35,40,Divorced,Asian-Pac-Islander,4187,3439,United States,73929,93800,>50K
+59,Male,Masters,11,Unemployed,Clerical,Education,Bangalore,18,36,Married,Asian-Pac-Islander,9820,4937,Australia,83864,75900,>50K
+32,Female,Masters,15,Self-employed,Clerical,IT,Bangalore,0,33,Single,Amer-Indian-Eskimo,7770,4267,India,137208,55800,>50K
+49,Male,PhD,6,Self-employed,Managerial,Healthcare,Hyderabad,13,58,Married,Amer-Indian-Eskimo,5875,1910,Australia,61395,56700,>50K
+30,Male,Some-college,5,Private,Managerial,Healthcare,Mumbai,20,29,Single,White,2946,2765,United States,128582,70000,>50K
+45,Female,Some-college,11,Unemployed,Clerical,IT,Bangalore,21,40,Married,Asian-Pac-Islander,2790,2022,India,105361,79800,>50K
+35,Female,Masters,15,Private,Managerial,Manufacturing,Hyderabad,0,47,Single,Asian-Pac-Islander,7391,3689,Canada,137322,56200,>50K
+52,Female,Bachelors,9,Unemployed,Clerical,IT,Delhi,25,35,Divorced,Asian-Pac-Islander,887,4077,Australia,106965,82300,>50K
+47,Male,PhD,14,Government,Clerical,IT,Hyderabad,18,29,Single,White,3726,2601,Germany,81344,71000,>50K
+30,Male,PhD,9,Government,Craft-repair,Finance,Mumbai,15,35,Divorced,Amer-Indian-Eskimo,1900,2564,Canada,135881,68000,>50K
+52,Female,Bachelors,10,Unemployed,Craft-repair,Education,Hyderabad,2,36,Single,Other,993,2553,Australia,149094,46700,<=50K
+39,Female,PhD,5,Unemployed,Engineer,Education,Mumbai,21,56,Married,White,3798,2460,United States,79399,68200,>50K
+20,Male,Masters,13,Private,Sales,Education,Delhi,23,31,Divorced,Asian-Pac-Islander,1171,686,India,100293,88700,>50K
+28,Male,PhD,2,Government,Craft-repair,IT,Mumbai,2,56,Married,Other,8567,2289,United States,126454,27600,<=50K
+38,Female,HS-grad,7,Unemployed,Tech-support,Education,Bangalore,36,58,Divorced,Asian-Pac-Islander,5965,637,Canada,65984,96200,>50K
+29,Female,PhD,4,Self-employed,Clerical,Manufacturing,Chennai,31,59,Divorced,Other,9353,2842,India,76915,82900,>50K
+30,Female,HS-grad,15,Unemployed,Clerical,Manufacturing,Bangalore,9,32,Divorced,Other,6328,3207,Germany,76837,62000,>50K
+40,Female,HS-grad,3,Government,Managerial,Healthcare,Delhi,26,44,Single,Amer-Indian-Eskimo,8401,4809,United States,116232,66500,>50K
+51,Male,Some-college,5,Government,Tech-support,Healthcare,Delhi,33,49,Single,Asian-Pac-Islander,340,1530,Canada,136042,88100,>50K
+23,Female,PhD,14,Self-employed,Tech-support,Education,Hyderabad,28,39,Married,Asian-Pac-Islander,6869,3035,United States,133551,91100,>50K
+21,Female,Masters,6,Self-employed,Engineer,Healthcare,Chennai,0,42,Divorced,Asian-Pac-Islander,5485,1629,United States,63480,30300,<=50K
+38,Male,PhD,8,Government,Engineer,Finance,Chennai,11,42,Single,Other,2611,2989,Australia,144324,47600,<=50K
+49,Male,PhD,7,Unemployed,Tech-support,Finance,Delhi,25,42,Divorced,Black,4139,4845,India,73336,70900,>50K
+34,Female,PhD,9,Government,Sales,Finance,Hyderabad,8,41,Married,Other,5180,1682,Australia,115049,51600,>50K
+25,Female,HS-grad,2,Unemployed,Craft-repair,Manufacturing,Mumbai,37,30,Single,White,3200,2951,Australia,129507,75500,>50K
+44,Female,Bachelors,13,Self-employed,Sales,Manufacturing,Bangalore,21,38,Married,Black,8707,4403,United States,136560,79900,>50K
+53,Female,Masters,15,Self-employed,Clerical,Healthcare,Mumbai,28,40,Married,White,2384,4768,Canada,104049,88900,>50K
+31,Male,PhD,5,Unemployed,Managerial,Manufacturing,Mumbai,24,40,Single,Asian-Pac-Islander,1119,2705,Australia,95695,67700,>50K
+28,Female,Some-college,1,Unemployed,Tech-support,IT,Hyderabad,2,39,Married,Asian-Pac-Islander,9918,631,Canada,87988,30400,<=50K
+45,Female,PhD,13,Private,Managerial,Education,Mumbai,2,43,Single,Other,2684,327,India,90395,51500,>50K
+20,Male,HS-grad,4,Self-employed,Engineer,Finance,Mumbai,9,33,Divorced,Black,9525,730,Canada,115487,41000,<=50K
+42,Female,HS-grad,7,Self-employed,Managerial,Finance,Delhi,5,39,Divorced,Asian-Pac-Islander,6605,142,Australia,141350,46400,<=50K
+44,Female,Masters,9,Self-employed,Clerical,Manufacturing,Hyderabad,30,51,Divorced,White,1901,3813,India,118114,88100,>50K
+46,Female,Some-college,2,Government,Engineer,Healthcare,Delhi,7,41,Married,Asian-Pac-Islander,7827,3843,Australia,65003,40400,<=50K
+36,Male,Some-college,15,Self-employed,Engineer,Healthcare,Bangalore,10,45,Married,Black,3025,1136,Germany,135435,61500,>50K
+55,Male,Bachelors,2,Government,Managerial,Manufacturing,Chennai,16,49,Married,Asian-Pac-Islander,8064,4597,Canada,72141,49800,<=50K
+48,Female,Some-college,9,Unemployed,Clerical,Manufacturing,Delhi,23,55,Married,Black,3838,2950,United States,104852,78900,>50K
+28,Female,HS-grad,15,Government,Craft-repair,Manufacturing,Mumbai,1,59,Divorced,Amer-Indian-Eskimo,2892,1330,Canada,143547,56500,>50K
+27,Female,Some-college,15,Private,Managerial,Healthcare,Delhi,27,30,Single,Black,4180,2590,Germany,68498,98200,>50K
+47,Female,HS-grad,7,Government,Engineer,Finance,Chennai,25,54,Single,Amer-Indian-Eskimo,6991,3139,India,68350,80700,>50K
+36,Female,HS-grad,3,Self-employed,Craft-repair,Education,Delhi,15,25,Single,White,7793,2539,Germany,76999,54800,>50K
+21,Male,Masters,4,Private,Tech-support,Finance,Bangalore,3,41,Divorced,Black,5608,1558,Canada,78732,28000,<=50K
+27,Female,HS-grad,11,Government,Craft-repair,IT,Delhi,26,57,Single,Black,8860,79,India,59830,88300,>50K
+59,Male,Masters,14,Self-employed,Tech-support,Education,Mumbai,21,52,Single,Asian-Pac-Islander,9870,1225,United States,125505,76100,>50K
+51,Male,PhD,3,Government,Managerial,Manufacturing,Bangalore,8,23,Married,Amer-Indian-Eskimo,9826,1589,India,117795,39600,<=50K
+30,Female,HS-grad,3,Private,Craft-repair,IT,Delhi,21,22,Married,White,992,370,Canada,70817,53500,>50K
+41,Male,HS-grad,5,Self-employed,Sales,Finance,Mumbai,34,56,Divorced,Black,8054,3518,Germany,89997,77400,>50K
+47,Male,PhD,5,Unemployed,Sales,Finance,Chennai,28,26,Divorced,Amer-Indian-Eskimo,5163,3812,India,66306,76300,>50K
+40,Male,Bachelors,15,Government,Managerial,Finance,Mumbai,3,51,Divorced,Other,9692,2559,Canada,72486,61900,>50K
+26,Female,Some-college,12,Unemployed,Engineer,IT,Bangalore,2,53,Single,Black,49,828,Australia,103517,49000,<=50K
+24,Male,HS-grad,1,Private,Sales,Education,Hyderabad,10,45,Divorced,Black,1839,2832,India,58624,34300,<=50K
+26,Male,Bachelors,10,Self-employed,Engineer,Manufacturing,Delhi,37,37,Single,Asian-Pac-Islander,601,4082,India,66732,91900,>50K
+24,Male,Some-college,3,Private,Sales,Education,Hyderabad,12,40,Married,Amer-Indian-Eskimo,9130,3660,Australia,124398,49000,<=50K
+55,Female,Masters,10,Self-employed,Engineer,IT,Bangalore,36,23,Divorced,Asian-Pac-Islander,5839,3660,India,85354,89400,>50K
+35,Female,PhD,13,Self-employed,Managerial,Education,Bangalore,20,40,Divorced,Asian-Pac-Islander,711,1612,Australia,89715,82100,>50K
+25,Female,HS-grad,10,Government,Managerial,IT,Delhi,17,20,Married,Black,2522,2328,Australia,98523,74100,>50K
+23,Male,HS-grad,2,Government,Craft-repair,Manufacturing,Bangalore,8,24,Single,Asian-Pac-Islander,6257,2772,United States,129676,31200,<=50K
+46,Male,Some-college,8,Private,Tech-support,Healthcare,Hyderabad,5,37,Married,Asian-Pac-Islander,1147,2338,United States,135211,45400,<=50K
+23,Female,Bachelors,11,Private,Craft-repair,Finance,Bangalore,17,42,Single,Amer-Indian-Eskimo,9849,4808,Canada,53242,67400,>50K
+47,Female,Masters,10,Self-employed,Craft-repair,Healthcare,Hyderabad,18,22,Single,Amer-Indian-Eskimo,3081,1408,India,128537,64600,>50K
+37,Male,Masters,8,Private,Craft-repair,Education,Chennai,14,41,Divorced,Black,8683,4022,Australia,145236,66500,>50K
+35,Female,Some-college,12,Government,Tech-support,Manufacturing,Chennai,35,20,Married,Asian-Pac-Islander,8428,1053,Canada,109013,101800,>50K
+21,Male,PhD,4,Government,Sales,Manufacturing,Delhi,27,20,Single,Asian-Pac-Islander,3051,1139,Australia,63046,72200,>50K
+39,Male,PhD,9,Private,Tech-support,Education,Bangalore,38,52,Married,Other,9773,3754,Canada,91057,100700,>50K
+57,Male,Some-college,14,Self-employed,Craft-repair,Finance,Chennai,17,49,Married,Asian-Pac-Islander,9867,673,Canada,59788,77400,>50K
+45,Male,Masters,14,Government,Tech-support,Education,Bangalore,8,25,Married,Black,6249,2546,Canada,64051,68800,>50K
+56,Male,Masters,9,Self-employed,Engineer,Manufacturing,Mumbai,33,44,Divorced,White,5702,2331,United States,57972,96200,>50K
+47,Female,Masters,7,Self-employed,Clerical,Finance,Hyderabad,32,22,Married,Asian-Pac-Islander,9841,92,United States,87638,91400,>50K
+59,Male,Bachelors,13,Private,Sales,IT,Mumbai,38,41,Single,Asian-Pac-Islander,1926,4092,Canada,53366,105000,>50K
+55,Male,Some-college,9,Government,Clerical,IT,Hyderabad,18,58,Married,White,4522,3363,India,73767,66100,>50K
+51,Male,Some-college,8,Private,Engineer,Education,Chennai,15,42,Single,Asian-Pac-Islander,6255,2244,Germany,125044,64900,>50K
+33,Female,Some-college,7,Unemployed,Engineer,Manufacturing,Chennai,14,28,Married,Asian-Pac-Islander,1162,4013,United States,98764,53100,>50K
+29,Female,HS-grad,5,Government,Craft-repair,Healthcare,Chennai,0,43,Divorced,Other,9291,4094,United States,129385,39500,<=50K
+26,Male,HS-grad,1,Self-employed,Engineer,Finance,Chennai,8,55,Married,Asian-Pac-Islander,6805,3231,Australia,148861,43600,<=50K
+26,Female,Some-college,3,Government,Tech-support,IT,Delhi,15,51,Divorced,Other,4405,2595,United States,64594,48600,<=50K
+46,Male,Some-college,1,Unemployed,Clerical,Finance,Mumbai,2,51,Divorced,Black,5003,3019,Germany,119589,27000,<=50K
+32,Male,PhD,14,Unemployed,Craft-repair,Healthcare,Mumbai,25,25,Married,Black,8770,1330,United States,99663,93600,>50K
+51,Female,HS-grad,9,Unemployed,Engineer,IT,Bangalore,39,52,Single,White,5095,3187,India,148884,101400,>50K
+22,Male,Masters,6,Private,Managerial,Manufacturing,Hyderabad,0,30,Single,Amer-Indian-Eskimo,6846,718,Australia,109520,35000,<=50K
+52,Female,PhD,13,Unemployed,Craft-repair,Healthcare,Mumbai,17,36,Married,Other,8359,3403,Canada,53691,69800,>50K
+47,Male,Some-college,11,Government,Sales,IT,Delhi,3,26,Single,Asian-Pac-Islander,9549,1967,Australia,86263,53900,>50K
+47,Male,PhD,13,Private,Clerical,IT,Delhi,29,34,Single,Black,678,3469,Germany,123398,92400,>50K
+59,Male,Bachelors,8,Self-employed,Sales,IT,Bangalore,14,54,Married,Asian-Pac-Islander,8896,1695,Canada,89440,66800,>50K
+28,Male,PhD,4,Self-employed,Managerial,Manufacturing,Delhi,31,50,Married,Amer-Indian-Eskimo,4530,4944,India,148397,82100,>50K
+29,Male,PhD,9,Government,Engineer,Education,Bangalore,39,44,Divorced,Amer-Indian-Eskimo,3339,3044,India,131478,101000,>50K
+45,Male,Some-college,15,Unemployed,Tech-support,Manufacturing,Chennai,16,54,Divorced,Amer-Indian-Eskimo,756,810,India,129684,70900,>50K
+39,Female,PhD,1,Private,Managerial,Finance,Chennai,15,33,Single,Black,585,2036,United States,109528,43400,<=50K
+42,Male,Masters,6,Unemployed,Clerical,Healthcare,Delhi,15,53,Divorced,Amer-Indian-Eskimo,56,2431,Canada,66755,63600,>50K
+40,Female,Some-college,1,Government,Sales,Education,Mumbai,27,40,Married,Amer-Indian-Eskimo,8381,2870,Germany,132162,70100,>50K
+32,Female,HS-grad,12,Government,Managerial,Manufacturing,Delhi,17,58,Single,Asian-Pac-Islander,7339,4330,Germany,148517,76500,>50K
+41,Female,Some-college,13,Government,Tech-support,IT,Chennai,24,55,Divorced,White,1622,262,India,69923,85800,>50K
+29,Female,Bachelors,9,Unemployed,Tech-support,Healthcare,Bangalore,19,35,Married,Asian-Pac-Islander,5091,3149,Germany,139609,74800,>50K
+49,Male,HS-grad,10,Self-employed,Engineer,IT,Hyderabad,5,53,Married,Asian-Pac-Islander,4753,342,United States,114197,42700,<=50K
+45,Male,PhD,2,Self-employed,Craft-repair,Manufacturing,Bangalore,37,38,Divorced,Other,1783,3529,United States,142732,80200,>50K
+47,Female,Some-college,5,Government,Tech-support,Manufacturing,Bangalore,28,26,Divorced,White,9294,8,United States,105153,77300,>50K
+27,Female,HS-grad,14,Self-employed,Sales,Education,Delhi,24,55,Divorced,Amer-Indian-Eskimo,9129,2001,United States,143512,88300,>50K
+52,Female,PhD,15,Self-employed,Sales,Manufacturing,Bangalore,27,22,Divorced,Asian-Pac-Islander,1189,1283,Australia,93825,100100,>50K
+48,Male,PhD,7,Unemployed,Engineer,Finance,Mumbai,31,46,Single,Black,8246,1770,Canada,144259,84300,>50K
+46,Male,Some-college,2,Unemployed,Sales,Healthcare,Delhi,0,27,Married,Black,1100,4245,Germany,86566,25600,<=50K
+50,Male,Masters,14,Private,Sales,IT,Chennai,25,30,Divorced,Asian-Pac-Islander,5694,2342,Australia,146632,88100,>50K
+58,Male,Some-college,10,Self-employed,Craft-repair,Healthcare,Chennai,21,32,Single,Black,7613,2915,Germany,63063,79000,>50K
+22,Male,PhD,5,Private,Managerial,Education,Hyderabad,38,25,Divorced,Asian-Pac-Islander,8393,2781,United States,68294,82200,>50K
+22,Male,Masters,10,Self-employed,Tech-support,Education,Mumbai,29,26,Married,White,2165,1572,United States,63780,93400,>50K
+37,Female,Masters,2,Private,Craft-repair,IT,Chennai,31,28,Divorced,Amer-Indian-Eskimo,861,181,United States,148544,71600,>50K
+35,Female,HS-grad,6,Self-employed,Tech-support,IT,Chennai,32,41,Married,Amer-Indian-Eskimo,2518,624,Germany,51087,79500,>50K
+24,Male,PhD,12,Unemployed,Tech-support,IT,Bangalore,17,53,Single,Black,3907,4850,Canada,112881,68100,>50K
+50,Male,HS-grad,11,Self-employed,Managerial,Manufacturing,Bangalore,28,34,Married,Other,5772,1610,Canada,104113,87600,>50K
+53,Female,Masters,14,Unemployed,Sales,Education,Hyderabad,10,45,Divorced,Asian-Pac-Islander,7303,3894,Germany,68360,72400,>50K
+57,Male,HS-grad,15,Self-employed,Tech-support,IT,Mumbai,10,41,Divorced,Other,8528,3634,Canada,78049,70500,>50K
+29,Male,Bachelors,5,Private,Engineer,Healthcare,Chennai,12,41,Divorced,Asian-Pac-Islander,2615,1296,Australia,108398,45400,<=50K
+57,Male,HS-grad,12,Unemployed,Managerial,Manufacturing,Bangalore,2,58,Divorced,Other,4931,4767,Germany,70991,45600,<=50K
+32,Male,Some-college,9,Self-employed,Tech-support,Healthcare,Mumbai,26,37,Divorced,Amer-Indian-Eskimo,6862,1935,Australia,122206,77700,>50K
+46,Female,Bachelors,6,Self-employed,Engineer,Healthcare,Mumbai,6,26,Married,Amer-Indian-Eskimo,4608,1154,Canada,110460,43400,<=50K
+26,Male,PhD,7,Government,Sales,Healthcare,Chennai,22,45,Divorced,Black,4866,1569,India,144866,74200,>50K
+39,Female,Some-college,8,Government,Craft-repair,Education,Chennai,37,34,Married,Amer-Indian-Eskimo,1661,3363,Australia,100930,90900,>50K
+41,Female,PhD,6,Self-employed,Clerical,Manufacturing,Mumbai,11,37,Married,Asian-Pac-Islander,235,983,Canada,145356,56700,>50K
+39,Male,Some-college,7,Private,Sales,Education,Mumbai,4,39,Divorced,Amer-Indian-Eskimo,1852,3493,Canada,141773,43800,<=50K
+59,Female,Some-college,8,Unemployed,Managerial,Manufacturing,Hyderabad,37,44,Single,Other,5620,601,United States,98676,100300,>50K
+29,Male,Masters,15,Government,Managerial,Finance,Hyderabad,21,44,Single,Amer-Indian-Eskimo,2136,1494,Australia,69714,80300,>50K
+56,Female,Some-college,9,Self-employed,Engineer,Healthcare,Bangalore,23,31,Divorced,Other,7989,1829,United States,86006,80600,>50K
+27,Male,Masters,1,Unemployed,Tech-support,Healthcare,Hyderabad,14,33,Single,Asian-Pac-Islander,7741,1721,Canada,52301,42600,<=50K
+44,Female,Masters,6,Self-employed,Engineer,IT,Chennai,4,42,Divorced,Black,7560,2219,India,141525,41600,<=50K
+22,Female,PhD,1,Government,Managerial,Finance,Hyderabad,0,50,Single,Black,6895,519,Germany,54337,19400,<=50K
+52,Female,HS-grad,14,Private,Clerical,Healthcare,Chennai,11,31,Divorced,White,4796,3327,Canada,127285,62800,>50K
+30,Male,Some-college,12,Private,Clerical,Manufacturing,Bangalore,19,53,Divorced,White,3671,2305,United States,87598,76900,>50K
+31,Male,Bachelors,7,Unemployed,Clerical,IT,Delhi,23,27,Divorced,Asian-Pac-Islander,2873,608,India,54939,64900,>50K
+27,Male,Bachelors,14,Unemployed,Managerial,Finance,Hyderabad,18,43,Single,Asian-Pac-Islander,2111,2209,Australia,84745,71400,>50K
+52,Male,HS-grad,13,Government,Sales,Education,Mumbai,13,30,Married,White,5049,2444,Australia,96524,68700,>50K
+32,Male,HS-grad,10,Government,Sales,Healthcare,Hyderabad,2,47,Divorced,Other,2307,2513,United States,69938,38200,<=50K
+58,Male,Bachelors,11,Private,Managerial,Manufacturing,Chennai,31,35,Divorced,White,7156,3533,Germany,96917,84900,>50K
+49,Female,HS-grad,4,Private,Craft-repair,Finance,Chennai,15,56,Single,White,6684,4307,United States,93791,54400,>50K
+52,Female,Masters,14,Self-employed,Clerical,Manufacturing,Bangalore,24,46,Married,Black,5151,3064,United States,81475,88200,>50K
+55,Female,Masters,14,Unemployed,Sales,Healthcare,Mumbai,35,20,Divorced,Other,4617,3434,Germany,108095,108700,>50K
+33,Female,PhD,3,Self-employed,Sales,Healthcare,Bangalore,8,24,Divorced,Black,5828,3049,United States,114153,38800,<=50K
+46,Female,HS-grad,5,Unemployed,Engineer,IT,Mumbai,12,23,Single,White,9956,570,Canada,84340,45700,<=50K
+25,Male,Some-college,3,Self-employed,Craft-repair,Finance,Chennai,7,24,Single,Asian-Pac-Islander,3811,2682,Germany,102588,34100,<=50K
+47,Female,HS-grad,9,Private,Engineer,Education,Chennai,1,20,Single,Other,8660,2166,India,80852,42100,<=50K
+57,Female,Some-college,14,Private,Craft-repair,Finance,Chennai,19,21,Single,Other,229,2252,Australia,148257,74400,>50K
+51,Male,PhD,1,Government,Sales,Education,Chennai,18,56,Single,White,5791,354,Germany,91991,45600,<=50K
+53,Male,Bachelors,6,Private,Sales,Manufacturing,Chennai,37,26,Single,Amer-Indian-Eskimo,4858,916,Australia,146810,94800,>50K
+40,Male,PhD,13,Unemployed,Clerical,Finance,Hyderabad,9,24,Divorced,Asian-Pac-Islander,3179,306,Australia,99914,59900,>50K
+37,Male,Some-college,6,Private,Clerical,Education,Mumbai,22,32,Married,Asian-Pac-Islander,3517,979,India,79499,63100,>50K
+29,Female,Bachelors,6,Private,Sales,Manufacturing,Mumbai,26,26,Single,Amer-Indian-Eskimo,2376,3047,Germany,72478,79300,>50K
+55,Male,HS-grad,5,Government,Clerical,IT,Hyderabad,37,57,Married,Other,7621,3448,Canada,138468,88200,>50K
+26,Male,HS-grad,15,Unemployed,Managerial,Education,Delhi,20,37,Married,White,4705,2661,Germany,121030,82000,>50K
+48,Male,Bachelors,15,Unemployed,Clerical,Healthcare,Chennai,9,48,Single,Asian-Pac-Islander,8772,75,India,142392,70200,>50K
+48,Female,PhD,3,Self-employed,Tech-support,IT,Hyderabad,18,31,Single,Asian-Pac-Islander,8748,2798,India,116057,62400,>50K
+30,Male,PhD,15,Self-employed,Clerical,Manufacturing,Hyderabad,17,32,Married,White,3991,840,Australia,85213,82700,>50K
+32,Male,HS-grad,11,Private,Managerial,Healthcare,Chennai,0,28,Divorced,Asian-Pac-Islander,4225,982,Australia,90326,40000,<=50K
+59,Male,PhD,9,Private,Craft-repair,Education,Hyderabad,21,47,Single,White,9258,1251,India,120399,78500,>50K
+54,Female,Masters,14,Unemployed,Tech-support,Finance,Mumbai,8,56,Married,Other,269,1148,India,149827,68400,>50K
+49,Female,Bachelors,14,Government,Clerical,IT,Bangalore,18,27,Divorced,Black,5754,4188,Germany,128451,75200,>50K
+50,Male,Masters,12,Government,Engineer,Finance,Bangalore,25,22,Divorced,White,3043,4749,Canada,117686,78000,>50K
+35,Male,PhD,4,Self-employed,Engineer,Finance,Bangalore,16,46,Divorced,Asian-Pac-Islander,5969,367,Australia,110383,52300,>50K
+39,Female,Bachelors,11,Self-employed,Tech-support,Finance,Delhi,7,20,Married,White,5441,4234,United States,147263,56700,>50K
+41,Female,HS-grad,8,Unemployed,Tech-support,Education,Chennai,11,21,Single,Asian-Pac-Islander,1431,801,United States,62588,47600,<=50K
+41,Male,Some-college,11,Government,Clerical,IT,Delhi,6,22,Married,Other,2108,350,United States,55006,48800,<=50K
+55,Male,PhD,14,Government,Craft-repair,Finance,Hyderabad,35,40,Single,Black,8019,3305,Canada,123698,106200,>50K
+27,Male,PhD,5,Private,Clerical,IT,Bangalore,27,59,Married,Black,5570,4724,Germany,124264,72100,>50K
+30,Male,Some-college,8,Self-employed,Craft-repair,Education,Delhi,33,49,Single,Asian-Pac-Islander,9303,778,Canada,149702,84800,>50K
+20,Female,HS-grad,4,Unemployed,Engineer,IT,Bangalore,25,45,Married,Amer-Indian-Eskimo,5678,3943,United States,81887,73500,>50K
+24,Female,HS-grad,11,Unemployed,Craft-repair,IT,Delhi,31,43,Divorced,Asian-Pac-Islander,6244,2380,Canada,82433,92400,>50K
+23,Female,Some-college,6,Unemployed,Engineer,Education,Mumbai,7,34,Divorced,Asian-Pac-Islander,6740,4460,India,86006,43400,<=50K
+45,Female,Masters,15,Government,Craft-repair,IT,Delhi,20,53,Married,Other,3985,4376,United States,62818,85900,>50K
+35,Male,HS-grad,3,Government,Managerial,Manufacturing,Delhi,17,57,Single,Asian-Pac-Islander,9689,4160,India,138252,48500,<=50K
+36,Male,Masters,6,Self-employed,Sales,Finance,Bangalore,26,52,Single,Black,359,680,Canada,74251,73300,>50K
+44,Male,Some-college,11,Private,Sales,Education,Chennai,2,40,Divorced,Amer-Indian-Eskimo,5169,3787,Canada,126624,48500,<=50K
+24,Female,Masters,5,Government,Clerical,Education,Bangalore,10,45,Married,Asian-Pac-Islander,1200,2212,United States,95645,49900,<=50K
+58,Female,PhD,11,Private,Craft-repair,Manufacturing,Mumbai,32,45,Single,Asian-Pac-Islander,3360,3051,Australia,60410,86300,>50K
+34,Female,Masters,14,Government,Craft-repair,Manufacturing,Bangalore,29,24,Single,Amer-Indian-Eskimo,1203,2527,Canada,134299,101300,>50K
+47,Female,HS-grad,15,Self-employed,Tech-support,IT,Chennai,14,55,Married,Amer-Indian-Eskimo,562,397,United States,100578,73200,>50K
+51,Male,Some-college,11,Self-employed,Clerical,Finance,Delhi,29,36,Single,Asian-Pac-Islander,6611,437,Germany,127993,84200,>50K
+31,Male,Bachelors,11,Government,Engineer,IT,Delhi,37,33,Divorced,Black,200,344,India,140163,94400,>50K
+31,Female,Masters,15,Unemployed,Engineer,Education,Hyderabad,31,24,Married,Other,9070,2449,Australia,125385,103500,>50K
+38,Female,Masters,10,Self-employed,Clerical,Education,Hyderabad,21,49,Married,White,5146,333,Germany,104967,76200,>50K
+32,Female,Some-college,4,Government,Craft-repair,Education,Hyderabad,19,25,Married,Other,8306,2737,United States,94046,63200,>50K
+45,Male,Bachelors,5,Private,Craft-repair,Healthcare,Bangalore,18,58,Divorced,Black,6806,2017,India,79132,52400,>50K
+31,Male,Bachelors,3,Government,Sales,Finance,Delhi,23,58,Divorced,Asian-Pac-Islander,227,3294,United States,136135,62800,>50K
+54,Female,PhD,8,Self-employed,Engineer,Manufacturing,Chennai,35,54,Married,Asian-Pac-Islander,5529,4001,India,84117,87000,>50K
+26,Female,Bachelors,15,Unemployed,Craft-repair,Finance,Delhi,5,39,Divorced,Other,4179,3101,United States,67557,57100,>50K
+34,Female,Masters,14,Self-employed,Tech-support,IT,Mumbai,20,46,Divorced,Other,8024,4343,India,129081,78300,>50K
+56,Male,Masters,5,Private,Engineer,Education,Hyderabad,24,22,Married,Black,2800,3306,Canada,95967,62000,>50K
+32,Female,HS-grad,12,Private,Sales,IT,Chennai,3,28,Single,Other,6955,1355,Canada,117526,50600,>50K
+54,Female,Masters,11,Self-employed,Tech-support,Healthcare,Mumbai,16,41,Single,Asian-Pac-Islander,6056,3734,India,137383,69200,>50K
+35,Female,Bachelors,13,Private,Managerial,IT,Bangalore,31,54,Married,Other,3174,1262,Australia,142332,99300,>50K
+31,Male,PhD,12,Private,Clerical,Manufacturing,Chennai,26,31,Divorced,Other,1076,2112,Australia,123838,79300,>50K
+40,Male,Masters,6,Government,Clerical,Healthcare,Delhi,3,56,Single,White,7867,325,Australia,89907,40300,<=50K
+23,Male,Some-college,3,Private,Sales,Healthcare,Chennai,23,38,Divorced,Asian-Pac-Islander,155,1500,Canada,129655,58600,>50K
+37,Female,PhD,13,Private,Sales,Healthcare,Mumbai,34,56,Married,White,7873,2832,Canada,53788,105200,>50K
+38,Female,PhD,9,Government,Craft-repair,IT,Mumbai,37,56,Divorced,Amer-Indian-Eskimo,3578,1298,Canada,139326,89300,>50K
+43,Female,HS-grad,12,Private,Engineer,Finance,Bangalore,0,52,Single,White,2715,520,India,104189,43100,<=50K
+53,Female,Some-college,6,Unemployed,Clerical,IT,Chennai,21,40,Divorced,Asian-Pac-Islander,2092,2384,India,96243,68500,>50K
+50,Female,Some-college,1,Self-employed,Tech-support,Education,Bangalore,1,39,Married,Asian-Pac-Islander,6387,2963,Germany,95453,23000,<=50K
+50,Male,Some-college,4,Self-employed,Engineer,Healthcare,Chennai,13,27,Single,White,637,4874,Australia,61321,52200,>50K
+29,Female,Some-college,11,Government,Managerial,Education,Mumbai,38,45,Single,Amer-Indian-Eskimo,2870,3994,Australia,148834,98700,>50K
+38,Male,Some-college,7,Government,Managerial,IT,Mumbai,12,38,Single,Asian-Pac-Islander,2013,4238,India,127993,50300,>50K
+59,Male,Some-college,14,Self-employed,Engineer,IT,Bangalore,20,56,Divorced,Amer-Indian-Eskimo,4490,1039,India,79413,78900,>50K
+59,Male,Masters,15,Unemployed,Managerial,IT,Delhi,5,30,Single,Other,9937,1986,India,119560,53200,>50K
+49,Male,Some-college,6,Private,Clerical,Manufacturing,Delhi,14,55,Single,Other,8295,4806,Germany,73897,56400,>50K
+33,Female,PhD,7,Private,Clerical,IT,Bangalore,38,58,Single,Amer-Indian-Eskimo,5586,1001,Australia,55984,96600,>50K
+50,Female,PhD,15,Private,Craft-repair,Manufacturing,Mumbai,17,23,Divorced,Black,2830,3947,Australia,94622,83500,>50K
+31,Male,Masters,7,Unemployed,Managerial,Education,Bangalore,27,33,Divorced,Other,2396,4222,Canada,99132,75100,>50K
+28,Female,Some-college,10,Government,Managerial,Finance,Mumbai,20,22,Married,Black,6881,4785,Australia,130831,78800,>50K
+34,Female,HS-grad,8,Private,Clerical,Manufacturing,Hyderabad,9,59,Divorced,Black,51,4623,India,102746,51300,>50K
+58,Female,HS-grad,13,Private,Sales,Education,Bangalore,29,58,Single,Black,2522,410,United States,87031,94700,>50K
+35,Male,PhD,7,Self-employed,Managerial,Manufacturing,Mumbai,21,56,Married,Amer-Indian-Eskimo,7125,2281,Germany,109679,71400,>50K
+23,Male,PhD,14,Self-employed,Managerial,Finance,Hyderabad,16,24,Divorced,Black,8492,3471,Canada,121604,70600,>50K
+26,Male,HS-grad,3,Unemployed,Clerical,Education,Delhi,25,21,Divorced,Asian-Pac-Islander,3890,883,India,75730,72200,>50K
+42,Male,Masters,14,Unemployed,Clerical,Manufacturing,Hyderabad,37,21,Married,Other,3929,967,United States,143397,109000,>50K
+59,Female,PhD,14,Private,Managerial,Education,Chennai,16,58,Married,White,4302,3954,India,120724,72800,>50K
+36,Male,HS-grad,1,Private,Managerial,Healthcare,Hyderabad,22,29,Married,Amer-Indian-Eskimo,1591,3355,Australia,73513,57600,>50K
+54,Female,PhD,8,Unemployed,Managerial,Healthcare,Bangalore,3,45,Married,Black,9580,3038,United States,122157,43100,<=50K
+53,Female,HS-grad,8,Government,Sales,IT,Bangalore,19,40,Married,Black,8297,1854,Canada,68971,73200,>50K
+55,Female,Bachelors,6,Self-employed,Sales,Finance,Chennai,31,34,Single,Asian-Pac-Islander,1418,4103,Germany,134175,76100,>50K
+33,Female,Bachelors,1,Government,Engineer,Healthcare,Chennai,3,38,Divorced,Black,5383,4708,United States,100668,22600,<=50K
+44,Female,Bachelors,5,Private,Tech-support,Finance,Hyderabad,34,34,Divorced,Other,852,1006,Australia,111538,76300,>50K
+29,Male,PhD,15,Government,Managerial,IT,Mumbai,8,57,Married,White,8299,2905,Germany,56648,69300,>50K
+20,Male,Masters,1,Private,Craft-repair,Finance,Hyderabad,39,24,Married,Black,2604,4105,India,58357,85600,>50K
+30,Male,HS-grad,4,Private,Sales,IT,Delhi,18,57,Divorced,White,9717,4447,United States,110585,59700,>50K
+31,Female,Bachelors,1,Government,Clerical,IT,Chennai,31,21,Divorced,Black,3421,2180,India,122036,74900,>50K
+54,Female,PhD,1,Unemployed,Craft-repair,Education,Hyderabad,5,29,Divorced,Other,6404,2734,Canada,90491,25300,<=50K
+46,Female,HS-grad,15,Unemployed,Managerial,Education,Bangalore,0,22,Married,Black,1590,3808,Australia,131831,55600,>50K
+47,Female,Masters,5,Unemployed,Managerial,Healthcare,Mumbai,36,48,Divorced,Black,7053,2983,United States,134539,86700,>50K
+55,Male,Bachelors,8,Self-employed,Craft-repair,Education,Delhi,0,32,Single,White,6313,2420,United States,142858,32900,<=50K
+26,Female,Bachelors,13,Unemployed,Engineer,Manufacturing,Delhi,2,49,Single,Other,9048,1935,Germany,142287,47100,<=50K
+30,Male,Bachelors,12,Unemployed,Sales,Manufacturing,Delhi,34,44,Single,White,5302,666,India,135946,92600,>50K
+30,Male,HS-grad,11,Self-employed,Sales,Finance,Delhi,0,59,Married,Black,7667,2902,Germany,103782,39000,<=50K
+54,Female,Bachelors,11,Government,Engineer,IT,Mumbai,0,45,Married,Black,2536,577,United States,102361,45000,<=50K
+38,Male,Some-college,2,Government,Clerical,Finance,Hyderabad,22,32,Single,Black,3525,596,Canada,64737,63000,>50K
+31,Female,HS-grad,7,Self-employed,Sales,Healthcare,Bangalore,19,39,Divorced,White,1764,1149,Australia,84217,58400,>50K
+40,Male,Masters,13,Government,Sales,Healthcare,Delhi,10,57,Married,Amer-Indian-Eskimo,5466,4789,United States,100738,58600,>50K
+37,Male,Masters,13,Self-employed,Tech-support,Manufacturing,Hyderabad,26,30,Married,Other,6842,4859,United States,90089,83000,>50K
+24,Female,Some-college,2,Self-employed,Tech-support,Education,Chennai,13,33,Married,Asian-Pac-Islander,1629,1205,Germany,81536,49400,<=50K
+33,Male,PhD,13,Government,Clerical,Manufacturing,Chennai,27,56,Divorced,Asian-Pac-Islander,775,1624,India,89538,90300,>50K
+39,Male,HS-grad,8,Unemployed,Managerial,Healthcare,Hyderabad,11,35,Married,Other,2413,1028,United States,137536,57300,>50K
+56,Female,PhD,12,Private,Engineer,Finance,Mumbai,22,43,Married,Other,9099,3107,Australia,139922,83000,>50K
+47,Male,Bachelors,4,Self-employed,Engineer,Education,Delhi,12,57,Married,Other,5297,1316,Canada,93298,44100,<=50K
+23,Male,Some-college,8,Government,Sales,Finance,Mumbai,0,43,Divorced,Amer-Indian-Eskimo,4417,2803,United States,73556,45800,<=50K
+35,Male,PhD,2,Self-employed,Clerical,Healthcare,Mumbai,36,48,Married,White,4629,3198,Canada,58710,78500,>50K
+30,Female,Bachelors,8,Self-employed,Craft-repair,Manufacturing,Chennai,31,44,Married,Amer-Indian-Eskimo,8882,1519,India,99785,91200,>50K
+54,Female,Masters,2,Unemployed,Sales,Healthcare,Chennai,0,46,Married,Amer-Indian-Eskimo,1654,3295,Germany,149921,31700,<=50K
+53,Female,Bachelors,4,Self-employed,Tech-support,Manufacturing,Mumbai,17,20,Divorced,Other,3841,1026,Canada,129504,54900,>50K
+41,Female,Some-college,1,Government,Clerical,Finance,Delhi,6,50,Divorced,Other,9985,4376,India,109295,27800,<=50K
+43,Male,Bachelors,10,Private,Tech-support,IT,Bangalore,13,35,Divorced,Amer-Indian-Eskimo,2692,1490,Germany,111123,68400,>50K
+30,Male,Masters,9,Self-employed,Sales,Education,Delhi,30,24,Married,Amer-Indian-Eskimo,1349,4570,Germany,112089,79200,>50K
+50,Male,HS-grad,11,Private,Sales,IT,Mumbai,15,33,Divorced,Other,3302,1595,Canada,57424,68100,>50K
+42,Female,PhD,13,Unemployed,Managerial,Education,Bangalore,0,20,Single,White,4947,1993,India,83187,45100,<=50K
+57,Male,Some-college,11,Unemployed,Sales,Finance,Chennai,39,36,Divorced,Amer-Indian-Eskimo,9035,4148,India,100255,104300,>50K
+50,Female,PhD,5,Government,Clerical,Education,Mumbai,31,20,Married,Asian-Pac-Islander,9918,1639,Canada,126067,79100,>50K
+40,Female,Masters,12,Private,Sales,Education,Hyderabad,24,59,Single,Asian-Pac-Islander,5125,563,India,95128,77600,>50K
+34,Male,Masters,4,Private,Craft-repair,Healthcare,Chennai,6,58,Married,Amer-Indian-Eskimo,2705,1983,United States,85765,43100,<=50K
+26,Male,Bachelors,12,Government,Sales,Finance,Chennai,3,53,Single,Amer-Indian-Eskimo,925,2423,India,127859,52000,>50K
+58,Female,Some-college,4,Unemployed,Craft-repair,Finance,Delhi,14,42,Married,Other,3513,2852,Canada,99516,50100,>50K
+32,Female,PhD,11,Unemployed,Sales,IT,Bangalore,39,28,Single,Amer-Indian-Eskimo,4870,4768,United States,118337,97400,>50K
+26,Female,Some-college,14,Self-employed,Clerical,IT,Hyderabad,34,53,Married,Asian-Pac-Islander,1916,3761,Canada,145425,98200,>50K
+56,Female,PhD,2,Private,Managerial,Manufacturing,Delhi,2,57,Divorced,Asian-Pac-Islander,4777,1174,Canada,104426,27600,<=50K
+50,Female,Bachelors,2,Unemployed,Sales,Manufacturing,Bangalore,32,26,Single,Amer-Indian-Eskimo,574,18,United States,112690,76400,>50K
+48,Female,PhD,11,Government,Craft-repair,Finance,Mumbai,4,56,Divorced,Amer-Indian-Eskimo,4710,2862,United States,112627,57100,>50K
+44,Female,Bachelors,11,Self-employed,Craft-repair,Education,Hyderabad,13,56,Divorced,White,7537,4715,India,142071,65700,>50K
+31,Male,Bachelors,14,Government,Engineer,Healthcare,Delhi,11,20,Single,Other,4799,980,Australia,64345,72900,>50K
+21,Female,Masters,6,Private,Managerial,Finance,Bangalore,34,22,Single,Black,7810,505,India,133467,87900,>50K
+35,Female,Masters,14,Private,Tech-support,Finance,Chennai,5,29,Divorced,White,3751,3098,India,78595,54300,>50K
+34,Female,Bachelors,13,Self-employed,Engineer,Finance,Hyderabad,33,35,Married,White,6012,1133,Australia,64364,91700,>50K
+38,Male,Some-college,13,Private,Craft-repair,Education,Bangalore,25,20,Divorced,Other,1505,1611,Germany,109877,79400,>50K
+38,Male,Masters,9,Unemployed,Sales,Manufacturing,Bangalore,20,56,Divorced,Amer-Indian-Eskimo,8394,4368,Canada,67544,71400,>50K
+48,Male,Masters,15,Private,Clerical,Finance,Chennai,18,46,Divorced,Amer-Indian-Eskimo,2651,2544,India,60631,84200,>50K
+51,Female,HS-grad,9,Self-employed,Sales,Healthcare,Bangalore,15,20,Married,Black,2668,795,India,84587,67900,>50K
+51,Female,PhD,10,Government,Clerical,Manufacturing,Chennai,21,22,Single,Asian-Pac-Islander,6071,2699,India,107135,78500,>50K
+45,Male,Bachelors,9,Private,Sales,Healthcare,Chennai,4,35,Divorced,Black,4108,788,Canada,123038,46900,<=50K
+36,Male,Masters,7,Private,Clerical,IT,Bangalore,28,37,Single,Asian-Pac-Islander,27,2371,Canada,89167,82000,>50K
+54,Male,HS-grad,15,Self-employed,Tech-support,Manufacturing,Bangalore,10,39,Divorced,Other,8445,3620,Australia,137441,65400,>50K
+32,Male,HS-grad,3,Self-employed,Managerial,Finance,Mumbai,8,49,Divorced,Black,7991,2321,United States,83212,42000,<=50K
+28,Male,Masters,5,Private,Engineer,Healthcare,Chennai,4,32,Single,White,1289,660,United States,107858,33500,<=50K
+37,Male,Some-college,8,Unemployed,Craft-repair,Healthcare,Bangalore,38,33,Married,White,4347,3030,Germany,92093,88900,>50K
+43,Male,Bachelors,12,Government,Managerial,IT,Hyderabad,24,34,Divorced,White,8399,471,Australia,94293,82800,>50K
+35,Male,HS-grad,5,Self-employed,Managerial,Manufacturing,Bangalore,30,20,Divorced,Black,2523,3349,India,68673,79900,>50K
+41,Female,Masters,15,Private,Sales,Education,Delhi,20,26,Married,White,7217,3306,Australia,116910,85400,>50K
+37,Female,PhD,1,Private,Craft-repair,Manufacturing,Delhi,23,21,Divorced,Black,8701,4488,Canada,108950,64100,>50K
+37,Female,HS-grad,4,Government,Engineer,Manufacturing,Hyderabad,33,28,Single,Amer-Indian-Eskimo,2463,3671,Australia,58277,84800,>50K
+44,Female,Some-college,4,Private,Engineer,IT,Delhi,31,35,Married,Amer-Indian-Eskimo,6427,2272,Germany,95490,81500,>50K
+44,Male,Some-college,11,Unemployed,Tech-support,IT,Mumbai,0,53,Married,White,1774,1940,Canada,90359,39700,<=50K
+25,Male,Masters,7,Private,Clerical,IT,Chennai,18,22,Single,Asian-Pac-Islander,8750,170,India,111358,64300,>50K
+44,Male,Bachelors,9,Unemployed,Managerial,Finance,Mumbai,33,28,Married,Asian-Pac-Islander,2963,2464,United States,102214,86000,>50K
+32,Male,PhD,7,Self-employed,Craft-repair,Education,Mumbai,30,31,Single,Asian-Pac-Islander,6109,4911,United States,97850,86200,>50K
+41,Female,HS-grad,13,Private,Managerial,IT,Chennai,1,53,Single,Amer-Indian-Eskimo,995,1486,Australia,100815,44600,<=50K
+54,Male,Some-college,11,Private,Managerial,IT,Hyderabad,12,32,Divorced,Asian-Pac-Islander,9285,4815,Australia,118371,61700,>50K
+41,Male,Masters,14,Government,Managerial,Education,Hyderabad,31,41,Divorced,Black,1083,2768,India,59825,98600,>50K
+34,Male,HS-grad,6,Government,Tech-support,Finance,Hyderabad,30,41,Single,Amer-Indian-Eskimo,9173,1649,Canada,99053,82500,>50K
+40,Male,Bachelors,13,Government,Tech-support,Manufacturing,Hyderabad,21,53,Married,Other,1421,2995,United States,115739,82400,>50K
+59,Female,HS-grad,4,Government,Engineer,Healthcare,Bangalore,1,55,Divorced,Amer-Indian-Eskimo,2105,3716,United States,82783,34600,<=50K
+57,Female,HS-grad,15,Government,Sales,Healthcare,Mumbai,2,34,Single,White,9753,464,Germany,85788,56700,>50K
+21,Female,Masters,10,Self-employed,Sales,IT,Hyderabad,13,24,Married,Black,2627,3309,Australia,128836,66600,>50K
+30,Female,Masters,13,Government,Clerical,IT,Mumbai,32,48,Single,White,3496,3613,Canada,106328,97800,>50K
+42,Male,HS-grad,14,Self-employed,Sales,IT,Bangalore,13,52,Divorced,Black,7995,3727,United States,119535,67800,>50K
+55,Female,Bachelors,14,Government,Managerial,Manufacturing,Bangalore,23,46,Divorced,Black,8847,3718,Australia,101115,88400,>50K
+40,Female,PhD,1,Self-employed,Clerical,Manufacturing,Bangalore,9,35,Single,Amer-Indian-Eskimo,8888,3548,United States,55230,33900,<=50K
+53,Male,Masters,3,Self-employed,Clerical,Healthcare,Mumbai,18,40,Married,Black,5630,2887,United States,84767,50500,>50K
+47,Male,PhD,6,Private,Tech-support,Healthcare,Mumbai,1,42,Divorced,Amer-Indian-Eskimo,9568,809,India,98020,31300,<=50K
+39,Female,HS-grad,11,Private,Sales,Manufacturing,Mumbai,35,56,Married,Black,2866,2420,Germany,108336,102000,>50K
+51,Male,Some-college,1,Self-employed,Managerial,IT,Chennai,27,41,Divorced,Black,8258,4771,Canada,105266,57900,>50K
+47,Male,Some-college,13,Unemployed,Sales,IT,Bangalore,30,46,Single,Asian-Pac-Islander,9670,3800,Australia,83160,86400,>50K
+53,Male,Some-college,12,Unemployed,Sales,Education,Delhi,15,36,Divorced,Asian-Pac-Islander,1780,4292,Australia,79202,70900,>50K
+54,Female,HS-grad,5,Unemployed,Engineer,IT,Delhi,6,25,Married,Other,4331,1374,Australia,100512,34800,<=50K
+59,Male,Masters,7,Unemployed,Sales,Education,Delhi,3,20,Single,Black,9661,700,Germany,59192,45300,<=50K
+35,Male,Some-college,14,Unemployed,Sales,Healthcare,Hyderabad,11,42,Divorced,Black,9990,1546,Australia,106460,73800,>50K
+52,Female,Masters,8,Self-employed,Sales,IT,Chennai,26,23,Single,White,1571,3757,Australia,80860,71000,>50K
+32,Female,Masters,10,Self-employed,Engineer,Education,Bangalore,17,54,Married,Other,2925,2222,Canada,63371,66000,>50K
+34,Male,Masters,5,Unemployed,Engineer,Healthcare,Delhi,36,30,Single,Asian-Pac-Islander,1492,757,Australia,117903,91400,>50K
+42,Male,Some-college,10,Government,Clerical,Education,Chennai,3,56,Single,Black,1916,4633,Canada,138090,45200,<=50K
+21,Male,Bachelors,12,Self-employed,Sales,Finance,Delhi,16,26,Single,White,577,2518,India,76905,74000,>50K
+41,Female,PhD,11,Government,Craft-repair,Manufacturing,Mumbai,5,46,Single,Amer-Indian-Eskimo,4933,3233,Australia,55153,56900,>50K
+40,Male,Bachelors,14,Private,Tech-support,IT,Chennai,13,35,Single,White,5029,1034,Canada,68275,69600,>50K
+20,Female,Bachelors,10,Self-employed,Clerical,Healthcare,Bangalore,27,38,Divorced,Other,8340,3759,Canada,108136,85000,>50K
+42,Female,PhD,9,Unemployed,Tech-support,IT,Mumbai,14,36,Married,Black,6880,1552,India,142500,58800,>50K
+37,Female,Some-college,4,Self-employed,Clerical,IT,Bangalore,21,46,Divorced,Other,1730,2765,Canada,121979,55700,>50K
+28,Male,Bachelors,2,Private,Managerial,Education,Hyderabad,10,24,Married,Other,3773,4507,Germany,127955,44000,<=50K
+24,Female,HS-grad,6,Self-employed,Sales,Finance,Mumbai,8,56,Divorced,Asian-Pac-Islander,5338,1802,Canada,144646,41400,<=50K
+56,Female,Some-college,15,Unemployed,Clerical,Education,Delhi,14,20,Divorced,Asian-Pac-Islander,3324,2992,Canada,77105,68900,>50K
+55,Male,PhD,9,Government,Sales,IT,Hyderabad,29,29,Married,Black,2858,712,Canada,129919,84900,>50K
+56,Male,Bachelors,15,Private,Craft-repair,Healthcare,Bangalore,1,29,Married,Amer-Indian-Eskimo,4006,4543,Germany,103825,54800,>50K
+40,Male,PhD,7,Unemployed,Sales,Finance,Mumbai,30,46,Divorced,Asian-Pac-Islander,7926,1376,India,133621,78200,>50K
+37,Female,HS-grad,11,Self-employed,Craft-repair,IT,Chennai,10,23,Divorced,Amer-Indian-Eskimo,2262,1394,Canada,58239,63200,>50K
+32,Male,Some-college,12,Private,Tech-support,IT,Mumbai,5,46,Divorced,Asian-Pac-Islander,8063,1212,Canada,109496,47700,<=50K
+41,Female,PhD,3,Private,Sales,IT,Delhi,19,43,Married,Black,1420,113,Australia,133900,53300,>50K
+22,Female,Bachelors,1,Unemployed,Sales,Manufacturing,Bangalore,5,49,Single,Other,6963,1287,India,128529,36800,<=50K
+57,Male,Masters,15,Government,Tech-support,Finance,Chennai,14,55,Divorced,Amer-Indian-Eskimo,2949,1838,Australia,94783,76200,>50K
+39,Male,Masters,11,Self-employed,Clerical,Education,Bangalore,37,20,Married,White,4662,1370,United States,94087,99500,>50K
+54,Female,Masters,14,Unemployed,Managerial,Manufacturing,Delhi,3,46,Single,Asian-Pac-Islander,9349,200,Canada,61824,50900,>50K
+22,Female,Bachelors,5,Self-employed,Craft-repair,Finance,Chennai,11,30,Divorced,Other,2037,3776,Australia,109608,49400,<=50K
+35,Male,Masters,8,Unemployed,Tech-support,Education,Hyderabad,27,45,Married,Amer-Indian-Eskimo,4870,4648,India,108078,80700,>50K
+51,Male,HS-grad,14,Unemployed,Tech-support,Healthcare,Hyderabad,24,44,Single,Other,2486,1993,Canada,149863,84100,>50K
+52,Male,Bachelors,6,Unemployed,Managerial,IT,Mumbai,36,47,Married,Black,8760,927,United States,82478,95400,>50K
+20,Female,Some-college,1,Unemployed,Sales,Manufacturing,Hyderabad,31,25,Single,Asian-Pac-Islander,8941,861,Canada,119935,69200,>50K
+34,Female,Masters,4,Unemployed,Tech-support,Healthcare,Chennai,29,52,Divorced,Black,7613,1450,Canada,73152,74700,>50K
+38,Male,HS-grad,13,Private,Engineer,Finance,Chennai,20,52,Married,Asian-Pac-Islander,1835,4461,United States,63975,85700,>50K
+59,Female,Some-college,9,Private,Sales,Manufacturing,Hyderabad,21,20,Single,Asian-Pac-Islander,2117,519,Germany,148529,79400,>50K
+31,Male,Masters,11,Self-employed,Tech-support,Finance,Chennai,1,23,Single,Asian-Pac-Islander,4313,1404,Australia,74368,47200,<=50K
+34,Female,PhD,6,Unemployed,Engineer,IT,Bangalore,9,39,Married,Black,4177,453,Canada,86822,52400,>50K
+36,Male,PhD,12,Self-employed,Tech-support,Education,Bangalore,1,53,Divorced,Black,2299,2718,India,110902,47700,<=50K
+43,Female,HS-grad,7,Unemployed,Craft-repair,Healthcare,Chennai,4,23,Married,Asian-Pac-Islander,314,3120,United States,105674,35700,<=50K
+58,Female,HS-grad,12,Private,Sales,Education,Delhi,23,28,Married,White,855,2274,Australia,122136,86600,>50K
+44,Female,HS-grad,8,Private,Clerical,Education,Chennai,6,27,Married,Other,2874,4832,United States,138910,45300,<=50K
+24,Female,HS-grad,12,Self-employed,Managerial,Manufacturing,Hyderabad,14,35,Married,Other,1086,4713,India,108938,65900,>50K
+24,Male,Masters,15,Unemployed,Craft-repair,Healthcare,Delhi,3,38,Divorced,Black,6307,4297,Australia,58597,56000,>50K
+48,Female,Bachelors,13,Unemployed,Managerial,Education,Delhi,32,31,Single,Amer-Indian-Eskimo,500,2959,Australia,106469,94200,>50K
+39,Female,Some-college,8,Self-employed,Clerical,Healthcare,Mumbai,18,24,Divorced,White,7089,1442,India,65225,68500,>50K
+48,Female,Masters,1,Self-employed,Craft-repair,Healthcare,Chennai,27,55,Married,Asian-Pac-Islander,9764,1664,United States,138761,60700,>50K
+38,Male,Some-college,5,Government,Sales,Manufacturing,Chennai,34,48,Single,Asian-Pac-Islander,4926,1351,India,144407,76100,>50K
+27,Female,HS-grad,7,Private,Engineer,IT,Chennai,18,29,Married,Other,9717,4942,Germany,71442,57100,>50K
+28,Male,Bachelors,15,Unemployed,Tech-support,Healthcare,Mumbai,5,58,Married,Amer-Indian-Eskimo,2009,659,United States,140297,55200,>50K
+43,Female,HS-grad,13,Private,Craft-repair,Manufacturing,Bangalore,32,25,Divorced,White,43,3556,India,124459,100400,>50K
+52,Female,Bachelors,6,Government,Tech-support,Healthcare,Hyderabad,15,41,Single,Asian-Pac-Islander,7971,3327,Australia,126526,61900,>50K
+48,Female,Some-college,14,Unemployed,Engineer,Education,Chennai,15,24,Married,Asian-Pac-Islander,1629,367,Australia,145896,67900,>50K
+59,Male,Some-college,11,Private,Sales,Education,Hyderabad,11,51,Married,Amer-Indian-Eskimo,5176,3746,Germany,92613,68400,>50K
+49,Female,Some-college,12,Government,Sales,Healthcare,Hyderabad,16,32,Married,White,2077,6,Germany,96052,74300,>50K
+28,Male,HS-grad,7,Self-employed,Managerial,Education,Mumbai,0,59,Divorced,White,1079,3057,India,61402,40300,<=50K
+43,Male,Bachelors,2,Self-employed,Engineer,Finance,Mumbai,30,50,Divorced,Amer-Indian-Eskimo,2894,718,India,123788,71000,>50K
